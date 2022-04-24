@@ -18,6 +18,7 @@ public TextView code;
         setContentView(R.layout.activity_main);
         b1=(Button)findViewById(R.id.b1);
         b2=(Button)findViewById(R.id.b2);
+
         b3=(Button)findViewById(R.id.b3);
         b4=(Button)findViewById(R.id.b4);
         b5=(Button)findViewById(R.id.b5);
